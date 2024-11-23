@@ -305,7 +305,7 @@ int main() {
         HttpAnalyzer analyzer;
         analyzer.setConfig(config);
 
-        auto metrics = analyzer.analyze("https://acedemand.com");
+        auto metrics = analyzer.analyze("https://your-website.com");
         
         std::cout << "\n=== HTTPS Analysis Results ===\n";
         
