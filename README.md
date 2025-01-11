@@ -1,0 +1,6 @@
+
+make clean
+
+make
+
+./app
