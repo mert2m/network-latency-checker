@@ -1,0 +1,7 @@
+{
+    "connectionTimeout": 5000,
+    "maxRetries": 3,
+    "enableVerboseLogging": true,
+    "outputDirectory": "./reports",
+    "logLevel": "INFO"
+}
